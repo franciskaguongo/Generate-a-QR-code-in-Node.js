@@ -1,4 +1,4 @@
-### Proposed title of article
+### Proposed title of the article
 
 How to generate URL and Text QR codes using Node
 
@@ -22,7 +22,7 @@ At the end of this tutorial, you will have understood:
 
 Some of the minimum requirements for this course are:
 
-- Basic understanding of HTML, CSS and web development
+- Basic understanding of HTML, CSS, and web development
 - Basic understanding of Node.js
 - An IDE installed on your machine, in our case we shall use Visual Studio Code
 - A stable internet connection
