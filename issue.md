@@ -21,6 +21,7 @@ At the end of this tutorial, you will have understood:
 ### Pre-requisites:
 
 Some of the minimum requirements for this course are:
+
 - Basic understanding of HTML, CSS and web development
 - Basic understanding of Node.js
 - An IDE installed on your machine, in our case we shall use Visual Studio Code
