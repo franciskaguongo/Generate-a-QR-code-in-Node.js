@@ -1,0 +1,7 @@
+How to generate URL QR codes using Node
+Have desired to make a code that generates QR codes of text or URL inputs using Node.js? You are in the right place. In this tutorial, you are going to learn how to create a QR code generator for text or URL input using Node.js.
+Before we begin, let us learn a little about QR codes and how they work.
+
+
+
+QR codes, which stand for Quick Respond code, consists of codes embedded in a graphical format that enables one to access information instantly. They have a great capability of storing lots of data, that is, up to 7089 characters or 4296 characters. They have been in use for quite some years ever since they were invented in 1994 by the Denso Wave Company. A QR code is made up of black and white dots called modules which are arranged in a certain format to represent data. The smallest QR code is made up of 21 x 21 modules( its size is about 2 x 2 cm or 0.78 x 0.78 inches) while the largest 177 x 177 modules. Data stored in QR codes can be easily accessed through scanning either by phone, laptop, or any device with a camera and QR code scanner support or application. It can also be scanned with scanners or as existing images by some applications both locally and online.
