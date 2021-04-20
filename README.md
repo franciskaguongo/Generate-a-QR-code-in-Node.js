@@ -16,3 +16,6 @@ This code will enable you to generate a QR code in Node.js from URLs and Text an
 
 **Results Webpage**
 ![Results Webpage](scan.ejs-webpage.png?raw=true "Results Webpage")
+
+
+View the steps [here](https://franciskaguongo.github.io/Generate-a-QR-code-in-Node.js/).
