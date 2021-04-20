@@ -1,3 +1,5 @@
+title: Node.js QR Code generator
+
 ## Welcome to Node.js QR Code generator
 
 The code in this page repository allows you to automatically generate a QR Code from URLs and Text and viewing it on your screen. You can use the code as a template without further restrictions.
