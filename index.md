@@ -1,4 +1,31 @@
 title: Node.js QR Code generator
+author: Some Person
+values:
+      layout: "page"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+social-network-links:
+  email: "franciskaguongo00@gmail.com"
+  github: franciskaguongo
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
 
 ## Welcome to Node.js QR Code generator
 
@@ -292,5 +319,31 @@ npm run dev
 In the browser, access the webpage using the following URL:
  `localhost:5000`
 
+values:
+      layout: "page"
 
-*Author: **FrancisKaguongo***
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+timezone: "America/Toronto"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+social-network-links:
+  email: "franciskaguongo00@gmail.com"
+  github: franciskaguongo
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
+
+footer: *Author: **FrancisKaguongo***
+date_format: "%B %-d, %Y"
